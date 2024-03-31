@@ -54,3 +54,6 @@ The bricks come in a variety of colors, offering a visually appealing and dynami
 ### **Conclusion**
 
 "Space Cat Breakthrough" is not just a game; it's a captivating showcase of creative programming and design, where foundational concepts in interactive game development come to life. Challenge yourself to achieve the highest score in this space-themed brick-breaking adventure, where innovation meets nostalgia. Get ready to play, be inspired, and embark on a captivating journey through the cosmos!
+
+[Play the game](https://editor.p5js.org/kynajain/sketches/SFM8Vfyd3)
+
