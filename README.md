@@ -2,7 +2,8 @@
 
 Space Cat Breakthrough is an engaging and skill-testing game where the player controls a space cat with the goal of breaking through an array of colourful bricks while preventing the cat from falling below the paddle. The objective is to achieve the highest possible score. In this project, I have created an interactive game using P5.js, inspired by the iconic Atari game 'Breakout'.
 
-!https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCat.JPG
+![Space Cat Breakthrough Game](https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCat.JPG)
+
 
 ### **The Brief**
 
