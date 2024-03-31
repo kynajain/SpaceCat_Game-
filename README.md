@@ -9,7 +9,7 @@ Space Cat Breakthrough is an engaging and skill-testing game where the player co
 
 Develop a captivating and interactive game using P5.js. Showcase programming expertise through the use of coding concepts like conditional statements, loops, variables, and functions in Javascript. Present a fun and challenging gameplay experience by incorporating visual elements and sound effects for an immersive experience. This brief is part of the Creative Computing program in 2023 at the University of Arts London.
 
-![Space Cat Breakthrough Game Enter Screen]((https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS1.png))
+![Space Cat Breakthrough Game Enter Screen](https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS1.png)
 
 
 ### **Gameplay:**
@@ -42,8 +42,8 @@ The bricks come in a variety of colors, offering a visually appealing and dynami
 2. The game has no predefined winning condition, allowing you to challenge yourself to achieve the highest score possible.
 
 
-!((https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS2.png))
-!((https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS3.png))
+![Space Cat Breakthrough Game Enter Winning Screen](https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS2.png)
+![Space Cat Breakthrough Game Enter Losing Screen](https://git.arts.ac.uk/pages/22034533/KynaJain.github.io/media/spaceCatS3.png)
 
 
 ### **Future Applications**
